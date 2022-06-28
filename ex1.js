@@ -1,5 +1,5 @@
 /**
- * Generator functions are a type of iterable
+ * Generator functions are a type of iterator
  *
  * It means they have a next() method, which returns
  * {
